@@ -23,7 +23,7 @@ int main( int argc, char **argv )
     const double version = 0.1;
     const string description = "A simple program to rename multiple files at once.";
     const string name = "Rename All";
-    const string author = "KALI, 6b616c69h@gmail.com";
+    const string author = "Diego, 6b616c69h@gmail.com";
     const string date = "Sun 04 Set 2016 02:22:24";
     
     //constantes de cptacão de comandos e definição de limite de array
